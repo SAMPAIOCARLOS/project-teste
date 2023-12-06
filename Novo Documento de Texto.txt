@@ -1,2 +1,1 @@
-LENDA
-eu sou a lenda 
+para verificar alterações que foram feiras no seu codigo é pelo comando "git status"
