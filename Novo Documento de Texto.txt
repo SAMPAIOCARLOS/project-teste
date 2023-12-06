@@ -3,3 +3,7 @@ para verificar qual a brench que esstá em uso é pelo comando "git branch"
 para trocar de branch é pelo comando "git checkout nomeDaBrench"
 
 para fazer a criação de branch é pelo seginte comando "git branch nomeDaBranch"
+
+para você colocar versões do seu codigo que estão em uma branch teste para a branch em produção 
+primeiro você tem que está na branch que você quer colocar a nova versão depois é pelo 
+comando "git merge nomeDaBrach que tem as alterações" depois o "git push"
