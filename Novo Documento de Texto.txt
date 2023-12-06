@@ -1,2 +1,5 @@
 para verificar alterações que foram feiras no seu codigo é pelo comando "git status"
+para verificar qual a brench que esstá em uso é pelo comando "git branch"
+para trocar de branch é pelo comando "git checkout nomeDaBrench"
+
 para fazer a criação de branch é pelo seginte comando "git branch nomeDaBranch"
