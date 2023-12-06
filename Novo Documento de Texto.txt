@@ -1,1 +1,2 @@
 para verificar alterações que foram feiras no seu codigo é pelo comando "git status"
+para fazer a criação de branch é pelo seginte comando "git branch nomeDaBranch"
